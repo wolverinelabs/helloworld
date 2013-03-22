@@ -15,6 +15,6 @@ capybara-*.html
 rerun.txt
 pickle-email-*.html
 
-# editor specific files
+# Ignore all editor specific files
 *~
 *.swp
